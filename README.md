@@ -1,4 +1,4 @@
-# CC7711 - INTELIGENCIA ARTIFICIAL E ROBOTICA
+# CC7711 - Inteligência Artificial e Robótica
 
 ## Chatbot - Atividade 1
 
